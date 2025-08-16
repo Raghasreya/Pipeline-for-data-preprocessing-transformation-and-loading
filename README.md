@@ -52,7 +52,7 @@ Demonstrates pipeline usage with a sample classifier (Random Forest)
 
 ##Technologies Used
 
-Python 🐍
+Python 
 
 Pandas — Data loading and manipulation
 
